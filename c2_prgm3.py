@@ -1,0 +1,11 @@
+import numpy as np
+print("23MCA016,Anjali E V")
+ut_arr=np.empty(shape=(3,2))
+print("Utilization array is:")
+print(ut_arr)
+ones_arr=np.ones(shape=(3,2))
+print("All elements are 1:")
+print(ones_arr)
+zeros_arr=np.zeros(shape=(3,2))
+print("All elements are 0:")
+print(zeros_arr)
